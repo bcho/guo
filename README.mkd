@@ -1,0 +1,3 @@
+# Guo
+
+Latex templates for humans in [广工](http://www.gdut.edu.cn/) style.
